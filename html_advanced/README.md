@@ -33,3 +33,5 @@ Techium will be the name of the company we will use across our webpages.
 |20-index.html| Adds links to nav|
 |21-index.html| Adds links to Social medias|
 |22-index.html| Adds links to other files|
+|23-index.html| Adds links to sections|
+|24-index.html| Makes nav and footer links unsorted lists|
