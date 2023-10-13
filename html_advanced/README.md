@@ -27,3 +27,5 @@ Techium will be the name of the company we will use across our webpages.
 |13-styleguide.html|Styleguide for paragraphs|
 |14-index.html| Added a span|
 |15-index.html| Adds divs between sections|
+|16-index.html| Adds div and header wraps to sections|
+|17-index.html| Adds line breaks for clarity|
