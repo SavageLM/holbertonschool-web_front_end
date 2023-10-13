@@ -39,3 +39,5 @@ Techium will be the name of the company we will use across our webpages.
 |26-styleguide.html| Adds style guide for lists|
 |27-index.html| Adds a horizontal break in the footer|
 |28-styleguide.html| Adds a guide for horizontal breaks|
+|29-index.html| Adds quotes to Testimonial section|
+|30-styleguide.html| Adds quote style guides|
