@@ -41,3 +41,4 @@ Techium will be the name of the company we will use across our webpages.
 |28-styleguide.html| Adds a guide for horizontal breaks|
 |29-index.html| Adds quotes to Testimonial section|
 |30-styleguide.html| Adds quote style guides|
+|31-index.html| Updates Lastest news with authors|
