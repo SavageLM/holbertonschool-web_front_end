@@ -30,3 +30,4 @@ Techium will be the name of the company we will use across our webpages.
 |16-index.html| Adds div and header wraps to sections|
 |17-index.html| Adds line breaks for clarity|
 |18-index.html| adds link to root folder|
+|20-index.html| Adds links to nav|
