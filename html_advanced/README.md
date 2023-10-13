@@ -26,3 +26,4 @@ Techium will be the name of the company we will use across our webpages.
 |12-index.html| Adds paragraphs to multiple sections|
 |13-styleguide.html|Styleguide for paragraphs|
 |14-index.html| Added a span|
+|15-index.html| Adds divs between sections|
