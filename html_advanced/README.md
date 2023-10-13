@@ -31,3 +31,5 @@ Techium will be the name of the company we will use across our webpages.
 |17-index.html| Adds line breaks for clarity|
 |18-index.html| adds link to root folder|
 |20-index.html| Adds links to nav|
+|21-index.html| Adds links to Social medias|
+|22-index.html| Adds links to other files|
