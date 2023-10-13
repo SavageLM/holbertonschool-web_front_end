@@ -13,3 +13,4 @@ Techium will be the name of the company we will use across our webpages.
 |----------|----------------:|
 |0-index.html| File containing the doc string and lang tags for an html web page|
 |1-index.html| Adding head and body tags to web page|
+|2-index.html|Added metadata and images|
