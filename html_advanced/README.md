@@ -20,3 +20,4 @@ Techium will be the name of the company we will use across our webpages.
 |6-index.html|updates work,news, and testimonial sections|
 |7-index.html| Updated header to have a nav tag|
 |8-index.html| Adds a level 1 header to main|
+|9-index.html| Adds level 2 header to sections|
